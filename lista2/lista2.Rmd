@@ -1,0 +1,8 @@
+---
+title: "Statystyka2"
+author: "Mateusz Biłyk"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
